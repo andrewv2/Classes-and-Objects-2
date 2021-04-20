@@ -1,6 +1,8 @@
-/*
- * replace with your comment header
- */
+/********************
+Name: Andrew VanVoorhees
+Coding 07
+Methods for Coding 07
+***********************/
 
 #include "mylist.h"
 

@@ -1,6 +1,8 @@
-/*
- * replace with your comment header
- */
+/********************
+Name: Andrew VanVoorhees
+Coding 07
+Main module for coding 07
+***********************/
 
 #include "main.h"
 

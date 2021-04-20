@@ -1,6 +1,8 @@
-/*
- * replace with your comment header
- */
+/********************
+Name: Andrew VanVoorhees
+Coding 07
+Header file for mylist.cpp
+***********************/
 
 #ifndef MYLIST_H
 #define MYLIST_H

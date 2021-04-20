@@ -1,6 +1,8 @@
-/*
- * replace with your comment header
- */
+/********************
+Name: Andrew VanVoorhees
+Coding 07
+Header file for main module
+***********************/
 
 #ifndef MAIN_H
 #define MAIN_H
